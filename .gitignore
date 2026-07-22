@@ -1,0 +1,22 @@
+build/
+build-*/
+managed_components/
+sdkconfig
+dependencies.lock
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Xcode user and build state (keep project files tracked)
+DerivedData/
+*.xcuserstate
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Local IDE and secret files
+.idea/
+.env
+.env.*
+*.pem
+*.p12
