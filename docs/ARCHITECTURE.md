@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Prototype architecture
 
 The first prototype keeps the UI independent from live GNSS and BLE. The fake
