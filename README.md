@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Bike Badge firmware
 
 First UI/performance prototype for the Waveshare
@@ -70,3 +72,15 @@ main/
     ui_model.c        Deterministic fake ride data
 sdkconfig.defaults    Performance-oriented board defaults
 ```
+
+## Licensing
+
+Bike Badge uses licenses matched to each kind of work:
+
+- firmware, software, and build configuration: Apache-2.0;
+- original hardware design sources: CERN-OHL-W-2.0; and
+- original documentation and non-brand creative assets: CC BY 4.0.
+
+Project names and brand assets are not automatically licensed. See
+[`LICENSING.md`](LICENSING.md) for the exact scope and
+[`TRADEMARKS.md`](TRADEMARKS.md) for brand-use boundaries.

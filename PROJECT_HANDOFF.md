@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Bike Badge project handoff
 
 This file is the durable context for continuing the project from another
